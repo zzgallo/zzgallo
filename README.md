@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzgallo" alt="zzgallo" /></a> </p>
 
-- 🔭 I’m currently working on **AI Agent**
+- 🔭 I’m currently working on **An AI Agent**
 
 - 🌱 I’m currently learning **Python & Rust**
 
